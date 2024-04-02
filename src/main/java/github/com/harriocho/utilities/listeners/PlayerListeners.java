@@ -22,5 +22,4 @@ public class PlayerListeners implements Listener {
     private void onDeath(PlayerDeathEvent e){
         e.setKeepInventory(true);
     }
-
 }
