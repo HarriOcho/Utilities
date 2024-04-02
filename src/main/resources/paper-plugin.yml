@@ -1,0 +1,7 @@
+authors: [HarriOcho]
+main: github.com.harriocho.utilities.Main
+api-version: "1.20"
+name: AgSkyblockUtilities
+version: 1.0-SNAPSHOT
+description: Personalización de eventos generales
+prefix: "🔰"
